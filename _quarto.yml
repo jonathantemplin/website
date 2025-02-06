@@ -2,16 +2,35 @@ project:
   type: website
 
 website:
-  title: "website"
+  search: 
+    location: navbar
+  bread-crumbs: true
+  page-navigation: true
+  back-to-top-navigation: true
+  title: "Jonathan Templin's Website"
+  page-footer: 
+    left:
+       © $\infty$, Jonathan Templin
   navbar:
+    collapse-below: md
+    collapse: true
+    tools-collapse: true
+    pinned: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: https://jonathantemplin.com/wp-content/uploads/2024/09/cv_jtemplin.pdf
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: dcmbook.qmd
+        text: DCM Book Website
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
 

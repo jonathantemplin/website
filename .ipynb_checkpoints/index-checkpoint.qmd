@@ -1,0 +1,88 @@
+---
+title: "Jοναθαν Τεμπλιν"
+about:
+  id: hero-heading
+  template: solana
+  image: "images/profile-2.JPG"
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jzhang@uark.edu
+    - icon: BlueSky
+      text: BlueSky
+      href: https://twitter.com/jihongzgamma
+    - icon: github
+      text: Github
+      href: https://github.com/JihongZ
+    - icon: bi-bookmark-heart-fill
+      text: ORCID
+      href: https://orcid.org/0000-0003-2820-3734
+listing:
+  - id: posts
+    contents: posts/*/*.[Rq]md
+    type: grid
+    fields: [image, date, reading-time, title]
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+    feed: true
+  - id: lectures
+    contents: posts/Lectures/*/*.[Rq]md
+    sort: "date desc"
+---
+
+::: {#hero-heading}
+I am Professor and E. F. Lindquist Chair in the Educational Measurement and Statistics program, a part of the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa.
+
+My research interests are focused on the development of psychometric and general quantitative methods, as applied in the psychological, educational, and social sciences. I teach courses on advanced quantitative methodology with an emphasis on statistical modeling, model comparisons, and the integration and generalities of popular statistical and psychometric techniques.
+
+In case you would like to hear my thoughts about my work, I was recently on the Learning Bayesian Statistics podcast with Alexandre Andorra, which you can access here:
+:::
+
+::: {#hero-heading}
+I currently hold the position of [Assistant Professor of Educational Statistics and Research Methods](https://esrm.uark.edu/directory/uid/jzhang/name/Jihong+Zhang/) (ESRM) at the department of Counseling, Leadership, and Research Methods (CLRM), University of Arkansas. Previously, I served as a postdoctoral fellow at the Chinese University of Hong Kong in the department of Social Work. My academic journey in psychometrics starts with a doctoral training with [Dr. Jonathan Templin](https://jonathantemplin.com/) in the Educational Measurement and Statistics (EMS) program at the University of Iowa. My primary research recently focuses on reliability and validation of psychological/psychometric network, Bayesian latent variable modeling, Item Response Theory modeling, and other advanced psychometric modeling. My expertise lies in the application of advanced statistical modeling in the fields of psychology and education, including multilevel modeling and structural equation modeling. My work is characterized by a commitment to enhancing the methodological understanding and application of statistics in educational research and beyond.
+:::
+
+::: {.panel-tabset align="left"}
+## Experience
+
+-   University of Arkansas \| **Assistant Professor** \| [Dec 2022 - Current]{style="color:darkgrey;"}
+
+-   The Chinese University of Hong Kong \| **Postdoctoral Fellow** \| [Dec 2022 - June 2023]{style="color:darkgrey;"}
+
+-   Stanford Research Institute (SRI) \| **Associate Researcher (Intern)** \| [June 2021 - Jan 2022]{style="color:darkgrey;"}
+
+## Interests
+
+-   Bayesian Psychometric Modeling
+
+-   Psychometric network and Latent variable modeling
+
+-   Machine Learning and data mining in Education
+
+-   Diagnostic Classification Models
+
+## Education
+
+-   **Ph.D.** \| Educational Measurement & Statistics \| University of Iowa \| [2019 - 2022]{style="color:darkgrey;"}
+
+-   **M.S.** \| Educational Psychology \| University of Kansas\| [2015 - 2019]{style="color:darkgrey;"}
+
+-   **B.S.** \| Applied Psychology \| Soochow University \| [2009 - 2013]{#date style="color:darkgrey;"}
+
+-   **B.S.** \| Law \| Soochow University \| [2011 - 2013]{style="color:darkgrey;"}
+:::
+
+## Teaching
+
+::: {#lectures}
+:::
+
+## Recent posts
+
+::: {#posts}
+:::
+

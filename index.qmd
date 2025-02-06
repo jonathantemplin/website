@@ -1,19 +1,55 @@
 ---
-title: "website"
+title: "Jοναθαν Τεμπλιν (Jonathan Templin)"
+about:
+  id: hero-heading
+  template: solana
+  image: "images/IMG_1435-725x1024.jpeg"
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jonathan-templin@uiowa.edu
+    - icon: BlueSky
+      text: BlueSky
+      href: https://bsky.app/profile/jonathantemplin.com
+    - icon: github
+      text: Github
+      href: https://github.com/jonathantemplin
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0001-7616-0973
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UC6WctsOhVfGW1D9NZUH1xFg
 ---
 
-This is a Quarto website.
+::: {#hero-heading align="left"}
+I am Professor and E. F. Lindquist Chair in the Educational Measurement and Statistics program, a part of the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research interests are focused on the development of psychometric and general quantitative methods, as applied in the psychological, educational, and social sciences. I teach courses on advanced quantitative methodology with an emphasis on statistical modeling, model comparisons, and the integration and generalities of popular statistical and psychometric techniques.
+:::
 
-```{r}
-1 + 1
-```
+::: {.panel-tabset align="left"}
+## Contact Information
 
-$$\tau \epsilon \mu \pi \lambda \iota \nu$$
+-   University of Iowa Campus Office:
 
-$$
-\varsigma 0 \nu \alpha \tau \eta \alpha \nu
-$$
+<a href="https://maps.app.goo.gl/6GJw7snqsaMTBnk99" target="_blank">S300A Lindquist Center</a><br> University of Iowa<br> Iowa City, Iowa 52242<br><br>
 
-Jοναθαν Τεμπλιν
+-   Innovative Assessment Solutions Office:
+
+<a href="https://maps.app.goo.gl/4yuiUUoQqwVzYZ897" target="_blank">University of Iowa BioVentures Center</a><br> 2500 Crosspark Road, Suite W140 <br> Coralville, Iowa 52241<br><br>
+
+## Upcoming and Recent Courses
+
+-   Placeholder for Bayesian 2024
+
+-   Placeholder for Missing Data 2025
+
+## Quick Links
+
+-   Placeholder for Archived Courses
+
+-   Placeholder for Argon page
+:::

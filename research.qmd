@@ -1,0 +1,6 @@
+---
+title: "Research"
+---
+
+With broad training in both quantitative psychology, statistics, psychometric, and data science and years of experience in educational measurement, my research interests span multiple disciplines, crossing theoretical advances with practical applications. I am primarily interested in methodological issues in psychometrics, with latent variable modeling, Bayesian statistics, and mixed-effects models being the main focus of my current quantitative research program.
+

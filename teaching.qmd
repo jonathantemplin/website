@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+---
+
+
+Teaching data science courses is one of the most challenging, yet most rewarding, parts of my job. Over the course of my career, my teaching methods and focus have changed, reflecting an awareness of modern methodology and a commitment to training students on the most up-to-date methods possible. 
+
+Being a faculty member in multiple statistics and data science programs has taught me that as quantitative scientists, we must maximize our efforts – most graduate students will not take many quantitative courses past their first year sequence. If we fail to train students in the most modern methods while we have them enrolled in our courses, they are at a disadvantage in publishing their research, pursuing external funding, or evaluating quantitative research from other scientists. 
+
+The various fields in the social and educational sciences have far too few methodologists. We must train the students of the future to understand the relationships between statistical methods so they are best equipped to use methods that fit their research questions best and can avoid using methods that have significant deficiencies. Research depends upon our success as teachers of quantitative methods, given that students from all programs learn research tools from us.
+
+
+::: {.panel-tabset align="left"}
+## Teaching Philosophy
+
+In 2010, I discussed my teaching philosophy and methods for the University of Georgia College of Education Innovation 20/20 series. Many of my thoughts about teaching are still true today:
+
+[What I've Learned About Teaching Statistics Courses](https://youtu.be/_BFk9tLZn-U?si=VN7KUUzm0SENKN45)
+
+## Video Lectures
+
+Lectures from my current and recent courses can be found on my YouTube Channel. Please subscribe to be notified when I am streaming new content.
+
+[YouTube Channel](https://www.youtube.com/channel/UC6WctsOhVfGW1D9NZUH1xFg)
+
+## Upcoming Courses
+
+In Spring 2025, I will be teaching a course on Missing Data Methods:
+
+[PSQF 7375 (University of Iowa)](https://myui.uiowa.edu/my-ui/courses/details.page?ci=148864&id=1039571)
+:::
+
