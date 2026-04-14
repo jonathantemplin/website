@@ -24,8 +24,7 @@ With broad training in quantitative psychology, statistics, psychometrics, and d
 
 ## Software
 
-- **MLMania** — helper functions and dependencies for multilevel-modeling courses. <https://github.com/jonathantemplin/MLMania>
-- **EPSY905R** — R package for the EPSY 905 multivariate statistics course. <https://github.com/jonathantemplin/EPSY905R>
+- **blatent** — implements Bayesian Diagnostic Classification Models (DCMs). <https://github.com/jonathantemplin/blatent>
 
 For course-related code repositories (Bayesian, SEM, missing data, multilevel measurement, multivariate, etc.), see [my GitHub profile](https://github.com/jonathantemplin).
 
