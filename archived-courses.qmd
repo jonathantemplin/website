@@ -27,13 +27,8 @@ A complete list of courses and workshops I have taught from Fall 2017 onward. Ea
 
 - **Fall 2022** — [Bayesian Psychometric Modeling](https://github.com/jonathantemplin/Bayesian-Psychometric-Modeling-Course-Fall2022) (PSQF 7375, University of Iowa)
 
-## 2021
-
-- **Fall 2021** — [Model Estimation Methods](https://github.com/jonathantemplin/model-estimation-course-f2021) (PSQF 7375, University of Iowa)
-
 ## 2019
 
-- **Fall 2019** — [Diagnostic Assessment](https://jonathantemplin.github.io/Diagnostic-Assessment-Fall-2019/) (PSQF 7375, University of Iowa)
 - **Spring 2019** — [Bayesian Psychometric Modeling](https://github.com/jonathantemplin/BayesianPsychometricModeling) (PSQF 7375, University of Iowa)
 
 ## 2018
