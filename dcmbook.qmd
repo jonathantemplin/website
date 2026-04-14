@@ -1,3 +1,21 @@
 ---
-title: "Teaching"
+title: "DCM Book"
 ---
+
+::: {.column-margin}
+![](images/IMG_1435-725x1024.jpeg){fig-alt="placeholder cover"}
+:::
+
+*Diagnostic Measurement: Theory, Methods, and Applications* (Rupp, Templin, & Henson, 2010, Guilford Press) is a graduate-level textbook on Diagnostic Classification Models (DCMs) — psychometric models that classify respondents into categorical latent classes defined by sets of attributes.
+
+## Companion website
+
+The book has a companion site with chapter summaries, example data, reproducible code, and errata:
+
+[**→ jonathantemplin.github.io/DCMbook**](https://jonathantemplin.github.io/DCMbook/)
+
+The companion site is built with Quarto and is open to contributions via [GitHub issues](https://github.com/jonathantemplin/DCMbook/issues).
+
+## Citing the book
+
+> Rupp, A. A., Templin, J., & Henson, R. A. (2010). *Diagnostic measurement: Theory, methods, and applications.* New York, NY: Guilford Press.

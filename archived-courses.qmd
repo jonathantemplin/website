@@ -1,0 +1,49 @@
+---
+title: "Course Archive"
+---
+
+A complete list of courses and workshops I have taught from Fall 2017 onward. Each course has its own GitHub-hosted site with syllabus, lecture materials, and (where available) recordings and code.
+
+## 2026
+
+- **Spring 2026** — [Multivariate Modeling](https://jonathantemplin.github.io/Multivariate-Modeling-Spring-2026/) (EDF 9780, Clemson University)
+
+## 2025
+
+- **Fall 2025** — [Structural Equation Modeling](https://jonathantemplin.github.io/Structural-Equation-Modeling-Fall-2025/) (PSQF 6249, University of Iowa)
+- **Summer 2025** — [Multilevel Measurement Models Workshop](https://jonathantemplin.github.io/MultilevelMeasurementModels2025/)
+- **Spring 2025** — [Missing Data Methods](https://jonathantemplin.github.io/MissingDataMethods2025/) (PSQF 7375, University of Iowa)
+
+## 2024
+
+- **Fall 2024** — [Bayesian Psychometric Modeling](https://jonathantemplin.github.io/Bayesian-Psychometric-Modeling-Course-Fall-2024/) (PSQF 7375, University of Iowa)
+
+## 2023
+
+- **Fall 2023** — [Multidimensional Measurement Models](https://github.com/jonathantemplin/MultidimensionalMeasurementModels2023) (PSQF 7375, University of Iowa)
+- **Summer 2023** — [Multilevel Measurement Models Workshop](https://github.com/jonathantemplin/mlmmWorkshop2023)
+
+## 2022
+
+- **Fall 2022** — [Bayesian Psychometric Modeling](https://github.com/jonathantemplin/Bayesian-Psychometric-Modeling-Course-Fall2022) (PSQF 7375, University of Iowa)
+
+## 2021
+
+- **Fall 2021** — [Model Estimation Methods](https://github.com/jonathantemplin/model-estimation-course-f2021) (PSQF 7375, University of Iowa)
+
+## 2019
+
+- **Fall 2019** — [Diagnostic Assessment](https://jonathantemplin.github.io/Diagnostic-Assessment-Fall-2019/) (PSQF 7375, University of Iowa)
+- **Spring 2019** — [Bayesian Psychometric Modeling](https://github.com/jonathantemplin/BayesianPsychometricModeling) (PSQF 7375, University of Iowa)
+
+## 2018
+
+- **Spring 2018** — [Fundamentals of Multivariate Modeling](https://jonathantemplin.github.io/Multivariate-Modeling-Spring-2018/) (EPSY 905, University of Kansas)
+
+## 2017
+
+- **Fall 2017** — [Latent Trait Measurement and Structural Equation Modeling](https://jonathantemplin.github.io/Latent-Trait-Measurement-SEM-Fall-2017/) (EPSY 906, University of Kansas)
+
+---
+
+For older courses (pre-2017), please contact me directly.

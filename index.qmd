@@ -43,13 +43,21 @@ My research interests are focused on the development of psychometric and general
 
 ## Upcoming and Recent Courses
 
--   Placeholder for Bayesian 2024
+-   [Multivariate Modeling (Spring 2026; EDF 9780; Clemson)](https://jonathantemplin.github.io/Multivariate-Modeling-Spring-2026/)
 
--   Placeholder for Missing Data 2025
+-   [Structural Equation Modeling (Fall 2025; PSQF 6249; University of Iowa)](https://jonathantemplin.github.io/Structural-Equation-Modeling-Fall-2025/)
+
+-   [Multilevel Measurement Models Workshop (July 2025)](https://jonathantemplin.github.io/MultilevelMeasurementModels2025/)
+
+-   [Missing Data Methods (Spring 2025; PSQF 7375; University of Iowa)](https://jonathantemplin.github.io/MissingDataMethods2025/)
+
+-   [Bayesian Psychometric Modeling (Fall 2024; PSQF 7375; University of Iowa)](https://jonathantemplin.github.io/Bayesian-Psychometric-Modeling-Course-Fall-2024/)
 
 ## Quick Links
 
--   Placeholder for Archived Courses
+-   [Course Archive](archived-courses.qmd) — every course taught from Fall 2017 onward, with links to materials.
 
--   Placeholder for Argon page
+-   [DCM Book Companion Site](dcmbook.qmd) — supplemental materials for *Diagnostic Measurement: Theory, Methods, and Applications* (Rupp, Templin, & Henson, 2010).
+
+-   [GitHub Profile](https://github.com/jonathantemplin) — code, course repos, and software.
 :::

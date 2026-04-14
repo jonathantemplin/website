@@ -23,10 +23,26 @@ Lectures from my current and recent courses can be found on my YouTube Channel. 
 
 [YouTube Channel](https://www.youtube.com/channel/UC6WctsOhVfGW1D9NZUH1xFg)
 
-## Upcoming Courses
+## Upcoming and Recent Courses
 
-In Spring 2025, I will be teaching a course on Missing Data Methods:
+Each course has its own site with syllabus, lecture materials, and (where available) recordings.
 
-[PSQF 7375 (University of Iowa)](https://myui.uiowa.edu/my-ui/courses/details.page?ci=148864&id=1039571)
+**Spring 2026**
+
+- [Multivariate Modeling (EDF 9780, Clemson University)](https://jonathantemplin.github.io/Multivariate-Modeling-Spring-2026/)
+
+**Fall 2025**
+
+- [Structural Equation Modeling (PSQF 6249, University of Iowa)](https://jonathantemplin.github.io/Structural-Equation-Modeling-Fall-2025/)
+
+**Summer 2025**
+
+- [Multilevel Measurement Models Workshop](https://jonathantemplin.github.io/MultilevelMeasurementModels2025/)
+
+**Spring 2025**
+
+- [Missing Data Methods (PSQF 7375, University of Iowa)](https://jonathantemplin.github.io/MissingDataMethods2025/)
+
+For a complete list of past courses (Fall 2017 onward), see the [Course Archive](archived-courses.qmd).
 :::
 

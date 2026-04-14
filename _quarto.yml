@@ -1,16 +1,19 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  search: 
+  search:
     location: navbar
   bread-crumbs: true
   page-navigation: true
   back-to-top-navigation: true
   title: "Jonathan Templin's Website"
-  page-footer: 
-    left:
-       © $\infty$, Jonathan Templin
+  page-footer:
+    left: |
+      © $\infty$, Jonathan Templin
+    right: |
+      [Source on GitHub](https://github.com/jonathantemplin/website)
   navbar:
     collapse-below: md
     collapse: true
@@ -19,14 +22,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: https://jonathantemplin.com/wp-content/uploads/2024/09/cv_jtemplin.pdf
+      - href: files/cv_jtemplin.pdf
         text: CV
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: archived-courses.qmd
+        text: Course Archive
       - href: dcmbook.qmd
-        text: DCM Book Website
+        text: DCM Book
 
 format:
   html:
@@ -35,4 +40,3 @@ format:
     toc: true
 
 editor: visual
-

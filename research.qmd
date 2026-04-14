@@ -2,5 +2,31 @@
 title: "Research"
 ---
 
-With broad training in both quantitative psychology, statistics, psychometric, and data science and years of experience in educational measurement, my research interests span multiple disciplines, crossing theoretical advances with practical applications. I am primarily interested in methodological issues in psychometrics, with latent variable modeling, Bayesian statistics, and mixed-effects models being the main focus of my current quantitative research program.
+With broad training in quantitative psychology, statistics, psychometrics, and data science — and years of experience in educational measurement — my research interests span multiple disciplines, crossing theoretical advances with practical applications. I am primarily interested in methodological issues in psychometrics, with **latent variable modeling**, **Bayesian statistics**, and **mixed-effects models** being the main focus of my current quantitative research program.
 
+::: {.panel-tabset}
+
+## Areas of Focus
+
+- **Diagnostic Classification Models (DCMs)** — model development, estimation, and applied diagnostic measurement. See the [DCM Book companion site](dcmbook.qmd).
+- **Bayesian Psychometric Modeling** — Bayesian formulations of confirmatory factor, IRT, and DCM models; estimation in JAGS, Stan, and `nimble`.
+- **Multilevel Measurement Models** — hierarchical extensions of measurement models for clustered, longitudinal, and multi-rater data.
+- **Software & estimation methods** — accessible implementations of contemporary psychometric models in R.
+
+## Publications
+
+- **ORCID:** <https://orcid.org/0000-0001-7616-0973> — full publication record.
+- **Google Scholar:** [Templin profile](https://scholar.google.com/citations?user=DwCdUJ4AAAAJ).
+
+## Books
+
+- Rupp, A. A., Templin, J., & Henson, R. A. (2010). *Diagnostic Measurement: Theory, Methods, and Applications.* New York, NY: Guilford Press. → [Companion site](dcmbook.qmd)
+
+## Software
+
+- **MLMania** — helper functions and dependencies for multilevel-modeling courses. <https://github.com/jonathantemplin/MLMania>
+- **EPSY905R** — R package for the EPSY 905 multivariate statistics course. <https://github.com/jonathantemplin/EPSY905R>
+
+For course-related code repositories (Bayesian, SEM, missing data, multilevel measurement, multivariate, etc.), see [my GitHub profile](https://github.com/jonathantemplin).
+
+:::
