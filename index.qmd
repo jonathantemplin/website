@@ -9,7 +9,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:jonathan-templin@uiowa.edu
+      href: mailto:jtempli@clemson.edu
     - icon: BlueSky
       text: BlueSky
       href: https://bsky.app/profile/jonathantemplin.com
@@ -25,7 +25,7 @@ about:
 ---
 
 ::: {#hero-heading align="left"}
-I am Professor and E. F. Lindquist Chair in the Educational Measurement and Statistics program, a part of the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa.
+Hello! As of January 1, 2026, I am the Eugene T. Moore Endowed Professor in the Learning Sciences program, a part of the Department of Education and Human Development in the College of Education at Clemson University.
 
 My research interests are focused on the development of psychometric and general quantitative methods, as applied in the psychological, educational, and social sciences. I teach courses on advanced quantitative methodology with an emphasis on statistical modeling, model comparisons, and the integration and generalities of popular statistical and psychometric techniques.
 :::
@@ -33,13 +33,13 @@ My research interests are focused on the development of psychometric and general
 ::: {.panel-tabset align="left"}
 ## Contact Information
 
--   University of Iowa Campus Office:
+**Jonathan Templin, Ph.D.**<br>
+Email: [jtempli@clemson.edu](mailto:jtempli@clemson.edu)<br><br>
 
-<a href="https://maps.app.goo.gl/6GJw7snqsaMTBnk99" target="_blank">S300A Lindquist Center</a><br> University of Iowa<br> Iowa City, Iowa 52242<br><br>
-
--   Innovative Assessment Solutions Office:
-
-<a href="https://maps.app.goo.gl/4yuiUUoQqwVzYZ897" target="_blank">University of Iowa BioVentures Center</a><br> 2500 Crosspark Road, Suite W140 <br> Coralville, Iowa 52241<br><br>
+Department of Education and Human Development<br>
+213C Tillman Hall<br>
+Clemson University<br>
+Clemson, SC 29631<br><br>
 
 ## Upcoming and Recent Courses
 
