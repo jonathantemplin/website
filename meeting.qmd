@@ -1,0 +1,19 @@
+---
+title: "Redirecting..."
+format:
+  html:
+    toc: false
+    include-in-header:
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://fantastical.app/jonathantemplin/meet-jonathan">
+page-navigation: false
+back-to-top-navigation: false
+---
+
+```{=html}
+<script>
+  window.location.replace("https://fantastical.app/jonathantemplin/meet-jonathan");
+</script>
+```
+
+If you are not redirected automatically, [click here to schedule a meeting](https://fantastical.app/jonathantemplin/meet-jonathan).
