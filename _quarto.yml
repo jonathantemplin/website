@@ -5,6 +5,7 @@ project:
     - CNAME
 
 website:
+  google-analytics: "G-26P4N8954L"
   search:
     location: navbar
   bread-crumbs: true
